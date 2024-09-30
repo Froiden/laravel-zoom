@@ -22,7 +22,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/redaali1997/laravel-api-client"
+            "url": "https://github.com/Froiden/laravel-api-client"
         }
     ],
     "require": {
